@@ -6,7 +6,7 @@
 
 /* body {
   margin: 0;
-        border: 10px solid #3E4348;
+       
   background: #AF4034
 } */
 
@@ -14,7 +14,9 @@
 /* selector decendente */
 
 body {
+  margin: 0;
   font-family: 'Poppins', sans-serif;
+  border: 10px solid #0b3a42;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -33,4 +35,12 @@ h1 {
 }
 .image-container {
   width: 500px;
+}
+.header {
+  padding: 10px;
+  background-color: #1abc9c;
+}
+
+.header h1 {
+  margin: 0 0 0 12px;
 }
