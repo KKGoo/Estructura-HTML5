@@ -13,12 +13,19 @@
 /* selector de estiqueta .. header - article - nav*/
 /* selector decendente */
 
-body
-{
-  font-family: 'Bungee', cursive;
+body {
+  font-family: 'Poppins', sans-serif;
 }
 
-h1
-{
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300; 
+}
 
+h1 {
+  font-size: 40px;
+  line-height: 1.5em;
+  letter-spacing: -.2px;
+  text-transform: uppercase;
+  text-decoration: 
 }
