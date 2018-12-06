@@ -26,6 +26,11 @@ h1 {
   font-size: 40px;
   line-height: 1.5em;
   letter-spacing: -.2px;
-  text-transform: uppercase;
-  text-decoration: 
+  text-transform: uppercase;  
+}
+.project-details {
+  width: 500px;
+}
+.image-container {
+  width: 500px;
 }
