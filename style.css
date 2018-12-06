@@ -4,9 +4,21 @@
 /* valores */
 /* propiedades */
 
-body {
-  background: #34495e
-}
+/* body {
+  margin: 0;
+        border: 10px solid #3E4348;
+  background: #AF4034
+} */
 
 /* selector de estiqueta .. header - article - nav*/
 /* selector decendente */
+
+body
+{
+  font-family: 'Bungee', cursive;
+}
+
+h1
+{
+
+}
