@@ -17,19 +17,47 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   border: 10px solid #0b3a42;
+  border-radius: 10px;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Poppins', sans-serif;
   font-weight: 300; 
+  width: 500px;
+
 }
 
 h1 {
+  /*margin: 100px 150px 70px;*/
   font-size: 40px;
   line-height: 1.5em;
   letter-spacing: -.2px;
-  text-transform: uppercase;  
+  text-transform: uppercase; 
+  
 }
+.hero {
+  height: 400px;
+  background-image: url('sutulu.jpg');
+  background-size: 700px 500px;
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-color: #16a085;
+
+}
+
+.Portfolio {
+  background-color: #16a085;
+}
+
+.project {
+  border: 1px solid #0b3a42;
+  border-radius: 20px;
+  padding: 35px; 
+  margin:35px;
+  background-color: #1abc9c;
+}
+
 .project-details {
   width: 500px;
 }
@@ -43,4 +71,8 @@ h1 {
 
 .header h1 {
   margin: 0 0 0 12px;
+}
+.header a {
+  color: black;
+  text-decoration: none
 }
